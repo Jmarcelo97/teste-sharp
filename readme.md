@@ -2,4 +2,4 @@
 
 **Descrição da versão:**
     - [X] Mudar cor do `h1`;
-    - [] Mudar escrita para o `pt-br`;
+    - [X] Mudar escrita para o `pt-br`;

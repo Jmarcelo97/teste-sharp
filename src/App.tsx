@@ -7,6 +7,8 @@ export default function Index() {
         textAlign: "center",
         margin: "2rem",
       }}
-    >Hello World</h1>
+    >
+      Olá Mundo
+    </h1>
   );
 }
